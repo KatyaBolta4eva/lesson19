@@ -1,0 +1,13 @@
+body {
+    background: bisque;
+    padding: 50px;
+  }
+  
+  h1 {
+    color: pink;
+  }
+  
+  img {
+    width: 800px;
+    height: 500px;
+  }
